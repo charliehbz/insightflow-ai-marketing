@@ -2,6 +2,10 @@
 
 InsightFlow 是一个面向品牌策略、内容运营和消费者洞察人员的 AI 营销工具原型。它将消费者评论 CSV 转化为可追溯的用户痛点、内容机会和 Campaign Brief。
 
+**在线演示：** [https://insightflow-ai-marketing.streamlit.app/](https://insightflow-ai-marketing.streamlit.app/)
+
+**推荐体验路径：** 使用模拟数据 → 校验并载入数据 → 开始洞察分析 → 查看洞察看板与 Campaign Brief。
+
 > 当前状态：可运行 MVP。已完成数据导入、可解释 AI 洞察、证据回溯、营销机会建议和 Campaign Brief 下载。
 
 ## 为什么做这个工具
